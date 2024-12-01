@@ -20,7 +20,7 @@ Greetings! 👋 I am **Luning Ding**, a dedicated and innovative developer speci
 - **Technologies Used**: Python, PyTorch, OpenCV, Scikit-Image.
 - **Impact**: Provided valuable insights into bee morphology and its role in climate adaptability through advanced image analysis techniques.
 
-### [Kmeans-Clustering] (https://github.com/Lucydln/KMeans_Clustering_and_Pattern_Analysis_for_IPv4_Addresses) and [Confidence Level Analysis](https://github.com/Lucydln/Confidence_Level_Analysis_For_IPv4_Addresses) for IPv4 Addresses  
+### [Kmeans-Clustering](https://github.com/Lucydln/KMeans_Clustering_and_Pattern_Analysis_for_IPv4_Addresses) and [Confidence Level Analysis](https://github.com/Lucydln/Confidence_Level_Analysis_For_IPv4_Addresses) for IPv4 Addresses  
 - **Objective**: Analyzed large-scale IP whitelist data using K-means clustering and confidence level analysis to identify patterns and prevent DDoS attacks.
 - **Technologies Used**: Python, Scikit-Learn, SQL.
 - **Impact**: Enhanced system security and streamlined data processing pipelines.
@@ -30,7 +30,7 @@ Greetings! 👋 I am **Luning Ding**, a dedicated and innovative developer speci
 - **Technologies Used**: R, Python, ggplot2, Matplotlib.
 - **Recognition**: Awarded the **DataFest Outstanding Project Award**.
 
-### [Cheat-Checker Website](https://github.com/Lucydln/Cheat_Checker_Website))
+### [Cheat-Checker Website](https://github.com/Lucydln/Cheat_Checker_Website)
 - **Objective**: Developed a web app for teachers to flag suspicious activities during exams using eye-tracking models.
 - **Technologies Used**: TensorFlow, Django, HTML, CSS.
 - **Recognition**: Awarded the **SBHacks Most Creative Project Award**.
@@ -82,11 +82,12 @@ the accuracy in detecting successful transcoding jobs by 30%.
 
 ## 📖 Research Experience
 ### UCSB Cheadle Center for Biodiversity and Ecological Restoration (Machine Learning Research Intern) | September 2022– July 2024
-- Conducted [bee hair quantification research] (https://advance.sagepub.com/users/515590/articles/1215597-climate-explains-global-functional-trait-variation-in-bees) using computer vision and submitted the paper to Science and PNAS.
+- Conducted [bee hair quantification research](https://advance.sagepub.com/users/515590/articles/1215597-climate-explains-global-functional-trait-variation-in-bees) using computer vision and submitted the paper to Science and PNAS.
 - Designed bee hairiness scores metrics combining image classification ResNet model and image regression model with
 Pytorch and achieved RMSE value of 0.31.
 - Improved image segmentation on bee hair using UNet with PyTorch on bee images and boosted the accuracy from 76% to 89%.
 - Performed texture analysis such as entropy analysis and fractal dimension to establish the evaluation protocol for bee hairiness.
 
+---
 
 I am passionate about applying data science and engineering to create impactful solutions. Feel free to reach out to collaborate or discuss my work!
