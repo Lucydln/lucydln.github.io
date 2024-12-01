@@ -78,6 +78,8 @@ detection and boosted the accuracy from 69% to 78%.
 the accuracy in detecting successful transcoding jobs by 30%.
 - Performed anomaly detection analyses on transcoding data using MySQL, Hive, Trino, and Python, identifying rare
 
+---
+
 ## 📖 Research Experience
 ### UCSB Cheadle Center for Biodiversity and Ecological Restoration (Machine Learning Research Intern) | September 2022– July 2024
 - Conducted [bee hair quantification research] (https://advance.sagepub.com/users/515590/articles/1215597-climate-explains-global-functional-trait-variation-in-bees) using computer vision and submitted the paper to Science and PNAS.
