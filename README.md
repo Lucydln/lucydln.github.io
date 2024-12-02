@@ -3,7 +3,9 @@
 
 Greetings! 👋 I am **Luning Ding**, a dedicated and innovative developer specializing in statistics, data science, machine learning, and software engineering. This website serves as a showcase for my projects, internships, and research.
 
-<img src="https://github.com/user-attachments/assets/88375bd9-7f28-4978-a04b-42293f87041d" alt="Image description" width="400">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/88375bd9-7f28-4978-a04b-42293f87041d" alt="Image description" width="200">
+</div>
 
 ---
 
