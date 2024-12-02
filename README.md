@@ -4,6 +4,7 @@
     overflow: hidden;
     border-bottom: 1px solid #ccc;
     background-color: #f1f1f1;
+    width: 100%;
   }
 
   .tab button {
@@ -15,6 +16,8 @@
     padding: 14px 16px;
     transition: 0.3s;
     font-size: 17px;
+    width: 25%; /* Each button now takes up 25% of the space */
+    text-align: center;
   }
 
   .tab button:hover {
@@ -84,39 +87,51 @@ Greetings! 👋 I am **Luning Ding**, a dedicated and innovative developer speci
 <div id="Projects" class="tabcontent">
   <h2>🚀 <a href="https://github.com/Lucydln">Featured Projects</a></h2>
 
-  ### [Bee Hair Quantification](https://github.com/Lucydln/Bee_Hair_Quantification)
-  - **About**: A computer vision tool for segmenting hair from images of bees and quantifying hairiness.
-  - **Technologies Used**: Python, PyTorch, OpenCV, Scikit-Image.
-  - **Impact**: Provided valuable insights into bee morphology and its role in climate adaptability through advanced image analysis techniques.
-  - [**Published Research Paper Here**](https://advance.sagepub.com/users/515590/articles/1215597-climate-explains-global-functional-trait-variation-in-bees#)
+  <h3><a href="https://github.com/Lucydln/Bee_Hair_Quantification">Bee Hair Quantification</a></h3>
+  <ul>
+    <li><strong>About</strong>: A computer vision tool for segmenting hair from images of bees and quantifying hairiness.</li>
+    <li><strong>Technologies Used</strong>: Python, PyTorch, OpenCV, Scikit-Image.</li>
+    <li><strong>Impact</strong>: Provided valuable insights into bee morphology and its role in climate adaptability through advanced image analysis techniques.</li>
+    <li><a href="https://advance.sagepub.com/users/515590/articles/1215597-climate-explains-global-functional-trait-variation-in-bees#"><strong>Published Research Paper Here</strong></a></li>
+  </ul>
 
-  ### [Kmeans-Clustering](https://github.com/Lucydln/KMeans_Clustering_and_Pattern_Analysis_for_IPv4_Addresses) and [Confidence Level Analysis](https://github.com/Lucydln/Confidence_Level_Analysis_For_IPv4_Addresses) for IPv4 Addresses
-  - **Objective**: Analyzed large-scale IP whitelist data using K-means clustering and confidence level analysis to identify patterns and prevent DDoS attacks.
-  - **Technologies Used**: Python, Scikit-Learn, SQL.
-  - **Impact**: Enhanced system security and streamlined data processing pipelines.
+  <h3><a href="https://github.com/Lucydln/KMeans_Clustering_and_Pattern_Analysis_for_IPv4_Addresses">Kmeans-Clustering</a> and <a href="https://github.com/Lucydln/Confidence_Level_Analysis_For_IPv4_Addresses">Confidence Level Analysis</a> for IPv4 Addresses</h3>
+  <ul>
+    <li><strong>Objective</strong>: Analyzed large-scale IP whitelist data using K-means clustering and confidence level analysis to identify patterns and prevent DDoS attacks.</li>
+    <li><strong>Technologies Used</strong>: Python, Scikit-Learn, SQL.</li>
+    <li><strong>Impact</strong>: Enhanced system security and streamlined data processing pipelines.</li>
+  </ul>
 
-  ### [CourseKata Engagement Optimization Analysis](https://github.com/Lucydln/CourseKata_Engagement_Optimization_Analysis)
-  - **Objective**: Built a logistic regression model to analyze e-learning engagement data and identify key drivers of student performance.
-  - **Technologies Used**: R, Python, ggplot2, Matplotlib.
-  - **Recognition**: Awarded the **DataFest Outstanding Project Award**.
-  - [**Presentation Slides Here**](https://github.com/Lucydln/CourseKata_Engagement_Optimization_Analysis/blob/main/final%20presentation.pdf)
+  <h3><a href="https://github.com/Lucydln/CourseKata_Engagement_Optimization_Analysis">CourseKata Engagement Optimization Analysis</a></h3>
+  <ul>
+    <li><strong>Objective</strong>: Built a logistic regression model to analyze e-learning engagement data and identify key drivers of student performance.</li>
+    <li><strong>Technologies Used</strong>: R, Python, ggplot2, Matplotlib.</li>
+    <li><strong>Recognition</strong>: Awarded the <strong>DataFest Outstanding Project Award</strong>.</li>
+    <li><a href="https://github.com/Lucydln/CourseKata_Engagement_Optimization_Analysis/blob/main/final%20presentation.pdf"><strong>Presentation Slides Here</strong></a></li>
+  </ul>
 
-  ### [Cheat-Checker Website](https://github.com/Lucydln/Cheat_Checker_Website)
-  - **Objective**: Developed a web app for teachers to flag suspicious activities during exams using eye-tracking models.
-  - **Technologies Used**: TensorFlow, Django, HTML, CSS.
-  - **Recognition**: Awarded the **SBHacks Most Creative Project Award**.
+  <h3><a href="https://github.com/Lucydln/Cheat_Checker_Website">Cheat-Checker Website</a></h3>
+  <ul>
+    <li><strong>Objective</strong>: Developed a web app for teachers to flag suspicious activities during exams using eye-tracking models.</li>
+    <li><strong>Technologies Used</strong>: TensorFlow, Django, HTML, CSS.</li>
+    <li><strong>Recognition</strong>: Awarded the <strong>SBHacks Most Creative Project Award</strong>.</li>
+  </ul>
 
-  ### [Image Denoising and Filtering Techniques](https://github.com/Lucydln/Image_Denoising_and_Filtering_Techniques)
-  - **Objective**: Explored various denoising and filtering methods to enhance OCR accuracy for large-scale document datasets.
-  - **Technologies Used**: TensorFlow, Python, OpenCV.
-  - **Context**: Part of Hundsun Technologies internship, where I developed a pipeline for preprocessing scanned financial document images, significantly improving data extraction performance.
+  <h3><a href="https://github.com/Lucydln/Image_Denoising_and_Filtering_Techniques">Image Denoising and Filtering Techniques</a></h3>
+  <ul>
+    <li><strong>Objective</strong>: Explored various denoising and filtering methods to enhance OCR accuracy for large-scale document datasets.</li>
+    <li><strong>Technologies Used</strong>: TensorFlow, Python, OpenCV.</li>
+    <li><strong>Context</strong>: Part of Hundsun Technologies internship, where I developed a pipeline for preprocessing scanned financial document images, significantly improving data extraction performance.</li>
+  </ul>
 
-  ### [DetEval For OCR](https://github.com/Lucydln/DetEval_For_OCR)
-  - **Objective**: Implemented a comprehensive evaluation framework to benchmark OCR accuracy using real-world scanned financial documents.
-  - **Technologies Used**: Python, PyTorch.
-  - **Context**: During my internship at Hundsun Technologies, I utilized this tool to assess and improve document classification models, achieving higher reliability in text recognition tasks.
+  <h3><a href="https://github.com/Lucydln/DetEval_For_OCR">DetEval For OCR</a></h3>
+  <ul>
+    <li><strong>Objective</strong>: Implemented a comprehensive evaluation framework to benchmark OCR accuracy using real-world scanned financial documents.</li>
+    <li><strong>Technologies Used</strong>: Python, PyTorch.</li>
+    <li><strong>Context</strong>: During my internship at Hundsun Technologies, I utilized this tool to assess and improve document classification models, achieving higher reliability in text recognition tasks.</li>
+  </ul>
 
-  Explore more of my projects [here](https://github.com/Lucydln?tab=repositories).
+  <p>Explore more of my projects <a href="https://github.com/Lucydln?tab=repositories">here</a>.</p>
 </div>
 
 <!-- Experience Section -->
@@ -147,9 +162,10 @@ Greetings! 👋 I am **Luning Ding**, a dedicated and innovative developer speci
   <ul>
     <li>Conducted research on bee hair quantification using computer vision.</li>
     <li>Improved segmentation and evaluation protocols, boosting accuracy to 89%.</li>
-    <li>Published research paper can be found [here](https://advance.sagepub.com/users/515590/articles/1215597-climate-explains-global-functional-trait-variation-in-bees#).</li>
+    <li>Published research paper can be found <a href="https://advance.sagepub.com/users/515590/articles/1215597-climate-explains-global-functional-trait-variation-in-bees#">here</a>.</li>
   </ul>
 </div>
+
 
 <!-- Skills Section -->
 <div id="Skills" class="tabcontent">
