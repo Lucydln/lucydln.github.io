@@ -1,7 +1,7 @@
 
-# Welcome to [Lucydln's GitHub](https://github.com/Lucydln) 🌟
+# Welcome to Lucydln's Personal Website🌟
 
-Greetings! 👋 I am **Luning Ding**, a dedicated and innovative developer specializing in statistics, data science, machine learning, and software engineering. This GitHub profile serves as a showcase for my projects, internships, and research.
+Greetings! 👋 I am **Luning Ding**, a dedicated and innovative developer specializing in statistics, data science, machine learning, and software engineering. This website serves as a showcase for my projects, internships, and research.
 
 ---
 
