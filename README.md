@@ -25,7 +25,7 @@ Greetings! 👋 I am **Luning Ding**, a dedicated and innovative developer speci
 - **Technologies Used**: Python, Scikit-Learn, SQL.
 - **Impact**: Enhanced system security and streamlined data processing pipelines.
 
-### [CourseKata Engagement Optimization Analysis](https://github.com/Lucydln/coursekata-optimization)
+### [CourseKata Engagement Optimization Analysis](https://github.com/Lucydln/CourseKata_Engagement_Optimization_Analysis)
 - **Objective**: Built a logistic regression model to analyze e-learning engagement data and identify key drivers of student performance.
 - **Technologies Used**: R, Python, ggplot2, Matplotlib.
 - **Recognition**: Awarded the **DataFest Outstanding Project Award**.
