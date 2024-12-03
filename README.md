@@ -92,7 +92,7 @@ Greetings! 👋 I am **Luning Ding**, a dedicated and innovative developer speci
     <li><strong>About</strong>: A computer vision tool for segmenting hair from images of bees and quantifying hairiness.</li>
     <li><strong>Technologies Used</strong>: Python, PyTorch, OpenCV, Scikit-Image.</li>
     <li><strong>Impact</strong>: Provided valuable insights into bee morphology and its role in climate adaptability through advanced image analysis techniques.</li>
-    <li><a href="https://advance.sagepub.com/users/515590/articles/1215597-climate-explains-global-functional-trait-variation-in-bees#"><strong>Published Research Paper Here</strong></a></li>
+    <li>Published research paper can be found <a href="https://advance.sagepub.com/users/515590/articles/1215597-climate-explains-global-functional-trait-variation-in-bees#">here</a>.</li>
   </ul>
 
   <h3><a href="https://github.com/Lucydln/KMeans_Clustering_and_Pattern_Analysis_for_IPv4_Addresses">Kmeans-Clustering</a> and <a href="https://github.com/Lucydln/Confidence_Level_Analysis_For_IPv4_Addresses">Confidence Level Analysis</a> for IPv4 Addresses</h3>
@@ -107,7 +107,8 @@ Greetings! 👋 I am **Luning Ding**, a dedicated and innovative developer speci
     <li><strong>Objective</strong>: Built a logistic regression model to analyze e-learning engagement data and identify key drivers of student performance.</li>
     <li><strong>Technologies Used</strong>: R, Python, ggplot2, Matplotlib.</li>
     <li><strong>Recognition</strong>: Awarded the <strong>DataFest Outstanding Project Award</strong>.</li>
-    <li><a href="https://github.com/Lucydln/CourseKata_Engagement_Optimization_Analysis/blob/main/final%20presentation.pdf"><strong>Presentation Slides Here</strong></a></li>
+    <li>Presentation slides can be found <a href="https://github.com/Lucydln/CourseKata_Engagement_Optimization_Analysis/blob/main/final%20presentation.pdf">here</a>.</li>
+
   </ul>
 
   <h3><a href="https://github.com/Lucydln/Cheat_Checker_Website">Cheat-Checker Website</a></h3>
